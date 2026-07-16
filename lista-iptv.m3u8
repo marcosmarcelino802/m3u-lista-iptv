@@ -1,12 +1,18 @@
 #EXTM3U
 #EXTINF:-1,TV Novo Tempo
 https://streamtv.novotempo.com/CDN-TV-PT/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:-1,Rádio Novo Tempo (Rio de Janeiro - RJ)
+#EXTINF:-1,Rádio Novo Tempo (Rio de Janeiro)
 https://streamradio.novotempo.com/CDN-RADIO-PT/smil:rntRioRJ.smil/playlist.m3u8
-#EXTINF:-1,Rádio Novo Tempo (Teresópolis - RJ)
+#EXTINF:-1,Rádio Novo Tempo (Teresópolis)
 https://streamradio.novotempo.com/CDN-RADIO-PT/smil:rntTeresopolisRJ.smil/playlist.m3u8
-#EXTINF:-1,Rádio Novo Tempo (Jacareí - SP)
+#EXTINF:-1,Rádio Novo Tempo (Jacareí)
 https://streamradio.novotempo.com/CDN-RADIO-PT/smil:radionovotempo.smil/playlist.m3u8
+#EXTINF:-1,TV Correio da Manhã (Petrópolis)
+https://video01.logicahost.com.br/tvc16/tvc16/playlist.m3u8
+#EXTINF:-1,TV Petrópolis
+https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
+#EXTINF:-1,Giro TV News (Petrópolis)
+https://video09.logicahost.com.br/giroserra/giroserra/playlist.m3u8
 #EXTINF:-1,TV Brasil
 https://tvbrasil-stream.ebc.com.br/EBC_HD.m3u8
 #EXTINF:-1,Canal Gov
@@ -15,11 +21,15 @@ https://canalgov-stream.ebc.com.br/GOV.m3u8
 https://canaleducacao-stream.ebc.com.br/EDUCACAO.m3u8
 #EXTINF:-1,Canal Saúde
 https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
-#EXTINF:-1,CaTVe
+#EXTINF:-1,CaTVe (Cultura)
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
-#EXTINF:-1,TV Aratu
+#EXTINF:-1,Rede Brasil
+https://redebrasil.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1,RBAtv (Band)
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+#EXTINF:-1,TV Aratu (SBT)
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
-#EXTINF:-1,TV Vila Real
+#EXTINF:-1,TV Vila Real (Record)
 https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1,Rede Família
 https://tv03.zas.media:1936/rftv/rftv/playlist.m3u8
@@ -33,20 +43,10 @@ https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1,Geekdot
 https://stream.ichibansys.com:3764/hybrid/play.m3u8
-#EXTINF:-1,Rede Brasil
-https://redebrasil.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1,RBAtv
-https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 #EXTINF:-1,Bem Mais TV
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
-#EXTINF:-1,TV Correio da Manhã (Petrópolis - RJ)
-https://video01.logicahost.com.br/tvc16/tvc16/playlist.m3u8
-#EXTINF:-1,TV Petrópolis
-https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
-#EXTINF:-1,Giro TV News (Petrópolis - RJ)
-https://video09.logicahost.com.br/giroserra/giroserra/playlist.m3u8
-#EXTINF:-1,Rede TV Mais
-https://video09.logicahost.com.br/redetvmais/redetvmais/playlist.m3u8
+#EXTINF:-1,Receitas Fast
+https://amg00716-globo-amg00716c3-tcl-br-9498.playouts.now.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1,NSports
 https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
 #EXTINF:-1,CazéTV
@@ -69,9 +69,5 @@ https://run-rc-br.otteravision.com/run/rc_br/rc_br_720.m3u8
 https://run-rufb.otteravision.com/run/rufb/rufb.m3u8
 #EXTINF:-1,Adrenalina Pura TV
 https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1,Receitas Fast
-https://amg00716-globo-amg00716c3-tcl-br-9498.playouts.now.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1,Rádio MEC FM (Rio de Janeiro - RJ)
+#EXTINF:-1,Rádio MEC FM (Rio de Janeiro)
 https://radiomecfm-stream.ebc.com.br/ebc/radiomecfm/MEC_FM-mp4a_277200_eng=20000.m3u8
-#EXTINF:-1,Rádio Bandnews FM (Rio de Janeiro - RJ)
-https://24503.live.streamtheworld.com/BANDNEWSFM_RJAAC.aac
