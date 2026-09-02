@@ -1,17 +1,17 @@
 #EXTM3U
 #EXTINF:-1,TV Novo Tempo
 https://streamtv.novotempo.com/CDN-TV-PT/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:-1,Rádio Novo Tempo (Rio de Janeiro)
+#EXTINF:-1,Rádio Novo Tempo Rio
 https://streamradio.novotempo.com/CDN-RADIO-PT/smil:rntRioRJ.smil/playlist.m3u8
-#EXTINF:-1,Rádio Novo Tempo (Teresópolis)
+#EXTINF:-1,Rádio Novo Tempo Teresópolis
 https://streamradio.novotempo.com/CDN-RADIO-PT/smil:rntTeresopolisRJ.smil/playlist.m3u8
-#EXTINF:-1,Rádio Novo Tempo (Jacareí)
+#EXTINF:-1,Rádio Novo Tempo Jacareí
 https://streamradio.novotempo.com/CDN-RADIO-PT/smil:radionovotempo.smil/playlist.m3u8
-#EXTINF:-1,TV Correio da Manhã (Petrópolis)
+#EXTINF:-1,TV Correio da Manhã
 https://video01.logicahost.com.br/tvc16/tvc16/playlist.m3u8
 #EXTINF:-1,TV Petrópolis
 https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
-#EXTINF:-1,Giro TV News (Petrópolis)
+#EXTINF:-1,Giro TV News
 https://video09.logicahost.com.br/giroserra/giroserra/playlist.m3u8
 #EXTINF:-1,TV Brasil
 https://tvbrasil-stream.ebc.com.br/EBC_HD.m3u8
@@ -69,5 +69,5 @@ https://run-rc-br.otteravision.com/run/rc_br/rc_br_720.m3u8
 https://run-rufb.otteravision.com/run/rufb/rufb.m3u8
 #EXTINF:-1,Adrenalina Pura TV
 https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1,Rádio MEC FM (Rio de Janeiro)
+#EXTINF:-1,Rádio MEC FM Rio
 https://radiomecfm-stream.ebc.com.br/ebc/radiomecfm/MEC_FM-mp4a_277200_eng=20000.m3u8
